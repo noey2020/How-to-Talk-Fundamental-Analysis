@@ -12,6 +12,7 @@ company’s valuation, quality, growth stability and financial health in relatio
 other firms in the same sector. These key metrics focus on particular components to
 help customers understand a company’s strengths and weaknesses in specific areas
 compared to its peers.
+
 One of the strengths of this model is the way it changes its use of underlying
 fundamental data based upon the sector/sub-sector that is being assessed.
 It is well known that analyzing banks requires different fundamentals than those used
@@ -23,20 +24,26 @@ companies. The nine sectors, outside of the finance sector, can be assessed usin
 same fundamental information. Despite these differences, the result is four key metrics
 – valuation, overall quality, growth stability and financial health that apply to each stock
 across Fidelity.com.
+
 The four components are measured using a range between 1 and 100, with 1 being low,
 overvalued or less healthy and 100 being high, undervalued or healthy, as applicable.
 The four components include:
+
  Valuation - The valuation metric combines fundamental data to determine if a
 company is overvalued or undervalued in relation to its peers.
+
  Quality – The quality metric uses fundamental data to assess a company’s
 overall earnings quality in relation to its peers. This metric uses information
 across all financial statements of the firm.
+
  Growth Stability – Growth Stability is an assessment of how stable the growth
 of earnings and cash flow has been over time. Companies with greater growth
 stability in comparison to their peers are more highly rated by this measure.
+
  Financial Health – Financial Health uses fundamental data to view the
 company’s debt and interest obligations (among other factors) to its financial
 health in comparison to its peers.
+
 Fundamental analysis is only one approach to analyzing stocks. When considering
 which stocks to buy or sell, you should use the approach that you're most comfortable
 with. As with all your investments, you must make your own determination as to whether
